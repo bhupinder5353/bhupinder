@@ -1,0 +1,20 @@
+.trial {
+    color: red;
+    font-size: 32px;
+    font-weight: 500;
+    text-decoration: underline;
+  }
+  
+  .trial2 {
+    color: green;
+    font-size: 84px;
+  }
+  .box {
+    background-color: gold;
+    font-size: 5vw;
+    padding: 10vw;
+    margin: 5vw;
+    border: solid;
+    height: 10vh;
+    border-color: red;
+}
